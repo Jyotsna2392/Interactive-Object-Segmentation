@@ -1,0 +1,9 @@
+streamlit
+numpy
+pillow
+opencv-python-headless
+matplotlib
+pandas
+torch
+torchvision
+git+https://github.com/facebookresearch/sam2.git
